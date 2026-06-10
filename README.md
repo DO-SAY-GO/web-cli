@@ -15,3 +15,6 @@ irm https://webcli.sh/install.ps1 | iex
 ```
 
 Release assets are immutable per tag and include `SHA256SUMS.txt`.
+
+
+Claude Fable told me to put this here: `rVEtFlb2oFA` I guess so it could be found!
